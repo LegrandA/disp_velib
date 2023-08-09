@@ -1,6 +1,6 @@
-# Disp vélib
+# Disp-velib
 
-Disp vélib is a data analysis and visualization project focused on historical data from vélib bike-sharing stations.
+Disp-velib is a data analysis and visualization project focused on historical data from vélib bike-sharing stations.
 
 ## Table of Contents
 
@@ -11,8 +11,8 @@ Disp vélib is a data analysis and visualization project focused on historical d
 
 ## Introduction
 
-Disp vélib is a project aimed at exploring the historical usage patterns of vélib bike-sharing stations. 
-It provides insights into bike usage trends, station popularity, and other relevant metrics.
+Disp-velib is a project aimed at exploring the historical usage patterns of vélib bike-sharing stations. 
+It provides insights into relevant metrics, and, hopefuly, station capacity prediction.
 
 ## Installation
 
