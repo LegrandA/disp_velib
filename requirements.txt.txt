@@ -4,3 +4,5 @@ scipy
 geopy
 seaborn
 matplotlib
+xgboost
+tqdm
